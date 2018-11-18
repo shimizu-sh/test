@@ -1,0 +1,13 @@
+{
+    "require": {
+        "google/cloud-logging": "^1.11",
+        "google/cloud-error-reporting": "^0.10.1",
+        "silex/silex": "^2.0",
+        "twig/twig": "^1.29"
+    },
+    "require-dev": {
+        "google/cloud-tools": "^0.6",
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/browser-kit": "^3.2"
+    }
+}
